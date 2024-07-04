@@ -18,7 +18,7 @@ You can install it using pip:
 ```bash
 pip install pygame
 
-##How to Run the Game
+**How to Run the Game**
 
 1.Ensure you have Python installed on your machine. You can download it from python.org.
 
@@ -32,12 +32,12 @@ pip install pygame
 5.Run the game using the following command:
 python flappy_bird.py
 
-##Game Controls
+**Game Controls**
 
 Spacebar or Up Arrow Key: Make the bird flap its wings to fly upwards.
 Escape Key: Quit the game.
 
-##Game Features
+**Game Features**
 
 Welcome screen with instructions.
 Player can start the game by pressing the Spacebar or Up Arrow Key.
@@ -46,7 +46,7 @@ Shopping cart functionality to add food items to the cart and order food.
 Stripe payment gateway integration for online payments.
 Order status update features.
 
-##How the Game Works
+**How the Game Works**
 
 welcomeScreen()
 Displays the welcome screen where the player can press Space or Up Arrow to start the game.
@@ -60,7 +60,7 @@ Checks if the bird collides with any pipes or the ground.
 getRandomPipe()
 Generates positions for a pair of pipes (one upper and one lower) for the game.
 
-##Acknowledgments
+**Acknowledgments**
 
 This project was inspired by the popular Flappy Bird game.
 Thanks to the Pygame community for their support and resources.
